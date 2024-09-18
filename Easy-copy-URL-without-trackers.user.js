@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Remove URL trackers and Copy
-// @namespace https://github.com/insign
-// @version 202409172110
+// @namespace https://github.com/insign/easy-copy-url-without-trackers
+// @version 202409181420
 // @description Removes annoying url trackers parameters and copies the cleaned URL to the clipboard when using alt+c (or option+c on mac)
 // @match *://*/*
 // @author Hélio <open@helio.me>
