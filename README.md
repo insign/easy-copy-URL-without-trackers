@@ -1,4 +1,5 @@
-# Easy copy URL without trackers
+# ⚠️ Moved to [Userscripts Collection](https://github.com/insign/userscripts)
+## Easy copy URL without trackers
 
 A userscript that copies the URL of the current page and removes all trackers from it.
 
